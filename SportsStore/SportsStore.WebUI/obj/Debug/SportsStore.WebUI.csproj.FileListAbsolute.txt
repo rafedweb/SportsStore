@@ -92,3 +92,7 @@ C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.WebUI\bin\System.Web
 C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
 C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
 C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
