@@ -60,6 +60,8 @@ C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.WebUI\bin\roslyn\VBC
 C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll.config
 C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
 C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
 C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.WebUI\bin\Moq.dll
@@ -75,6 +77,8 @@ C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.WebUI\bin\System.Web
 C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.dll
 C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.WebUI\bin\WebActivator.dll
 C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
 C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.WebUI\bin\Moq.xml
 C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.WebUI\bin\Ninject.pdb
@@ -92,7 +96,3 @@ C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.WebUI\bin\System.Web
 C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
 C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
 C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
-C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
-C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
-C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
-C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
