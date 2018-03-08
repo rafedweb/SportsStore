@@ -1,16 +1,18 @@
 ﻿using System;
 using System.Web.Mvc;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Moq;
 using SportsStore.Domain.Abstract;
+using Moq;
 using SportsStore.Domain.Entities;
 using SportsStore.WebUI.Controllers;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace SportsStore.UnitTests
 {
     [TestClass]
     public class UnitTest1
-    {
+    {     
         //[TestMethod]
         //public void Can_Paginate()
         //{
