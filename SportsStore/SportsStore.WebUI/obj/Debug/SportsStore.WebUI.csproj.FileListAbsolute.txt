@@ -96,3 +96,7 @@ C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.WebUI\bin\System.Web
 C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
 C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
 C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+C:\Estudo\Pro ASP NET MVC 5\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+C:\Estudo\Pro ASP NET MVC 5\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Estudo\Pro ASP NET MVC 5\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+C:\Estudo\Pro ASP NET MVC 5\SportsStore\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
