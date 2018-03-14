@@ -16,6 +16,11 @@ C:\Estudo\Pro ASP NET MVC 5\SportsStore\SportsStore\SportsStore.Domain\bin\Debug
 C:\Estudo\Pro ASP NET MVC 5\SportsStore\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
 C:\Estudo\Pro ASP NET MVC 5\SportsStore\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
 C:\Estudo\Pro ASP NET MVC 5\SportsStore\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+C:\Estudo\Pro ASP NET MVC 5\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+C:\Estudo\Pro ASP NET MVC 5\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\Estudo\Pro ASP NET MVC 5\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Estudo\Pro ASP NET MVC 5\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+C:\Estudo\Pro ASP NET MVC 5\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
 C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
 C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
@@ -38,9 +43,3 @@ C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\Sys
 C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
 C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
 C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
-C:\Users\Rafael\Desktop\SportsStore\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
-C:\Estudo\Pro ASP NET MVC 5\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
-C:\Estudo\Pro ASP NET MVC 5\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
-C:\Estudo\Pro ASP NET MVC 5\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
-C:\Estudo\Pro ASP NET MVC 5\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
-C:\Estudo\Pro ASP NET MVC 5\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
